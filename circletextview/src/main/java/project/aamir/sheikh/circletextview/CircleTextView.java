@@ -77,6 +77,7 @@ public class CircleTextView extends TextView {
         this.strokeColor = color;
     }
 
+
     public void setSolidColor(int pos) {
 
         if (Utils.LoadCircleColor(pos) == -1) {
@@ -89,6 +90,14 @@ public class CircleTextView extends TextView {
             //color has been saved load from shared prefs
             this.solidColor = Utils.LoadCircleColor(pos);
         }
+
+    }
+
+    public void setSolidColor() {
+
+
+        this.solidColor = Color.parseColor(Utils.genRandomColor());
+
 
     }
 
