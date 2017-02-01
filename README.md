@@ -53,7 +53,7 @@ This goes in your layout xml file with width and height as u want:
 ```
 and then in your java file:
 ```java
-        CircleTextView  mCircleTextView = (CircleTextView) itemView.findViewById(R.id.ctv); //change with your id
+        CircleTextView  mCircleTextView = (CircleTextView) findViewById(R.id.ctv); //change with your id
         mCircleTextView.setCustomText(mArrayList.get(position)); //Supply your whole text here it will automatically generate the initial
         mCircleTextView.setSolidColor(position); //pass position if used inside RecyclerView otherwise you can keep blank this is used to save background color state
         mCircleTextView.setTextColor(Color.WHITE);
