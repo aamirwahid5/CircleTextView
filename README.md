@@ -1,5 +1,5 @@
 # CircleTextView
-This is an Android library that will help users to have a circular TextView with an intial inside just like Gmail app with random colors that are genrated automatically.
+This is an Android library that will help users to have a circular TextView with an intial inside just like Gmail app with random colors that are genrated automatically. Please refer to included sample app for demo. 
 
 ![screenshot_2017-02-01-21-44-23-597_project aamir sheikh circletextviewexample](https://cloud.githubusercontent.com/assets/24679732/22515968/5658025e-e8ca-11e6-8b32-78078411a643.png)
 ![screenshot_2017-02-01-21-44-33-657_project aamir sheikh circletextviewexample](https://cloud.githubusercontent.com/assets/24679732/22515969/56637440-e8ca-11e6-9287-3c834cda3044.png)
