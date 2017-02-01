@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">CircleTextViewExample</string>
+    <string name="list_data">1</string>
+
+
+    <array name="list_data">
+
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Elephent</item>
+        <item>Fox</item>
+        <item>Goat</item>
+        <item>Hen</item>
+        <item>Ink</item>
+        <item>Jackal</item>
+        <item>Key</item>
+        <item>Lotus</item>
+        <item>Moon</item>
+        <item>Nose</item>
+        <item>Ox</item>
+        <item>Peacock</item>
+        <item>Queen</item>
+        <item>Rat</item>
+        <item>Sheep</item>
+        <item>Teacher</item>
+        <item>Umbrella</item>
+        <item>Voilet</item>
+        <item>Wind</item>
+        <item>Xuv</item>
+        <item>Yak</item>
+        <item>Zebra</item>
+
+
+        the quick brown fox jumps over the lazy dog
+    </array>
+</resources>
