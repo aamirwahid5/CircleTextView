@@ -57,6 +57,6 @@ and then in your java file:
         mCircleTextView.setCustomText(mArrayList.get(position)); //Supply your whole text here it will automatically generate the initial
         mCircleTextView.setSolidColor(position); //pass position if used inside RecyclerView otherwise you can keep blank this is used to save background color state
         mCircleTextView.setTextColor(Color.WHITE);
-        mCircleTextView.setCustomTextSize(18); //change with your text size or if kept blank will take size automatically
+        mCircleTextView.setCustomTextSize(18); //change with your text size or if not used will take size automatically
  ```
  
